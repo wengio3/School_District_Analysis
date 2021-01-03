@@ -9,5 +9,7 @@ Abstracted view of student data, from multiple sources to track their performanc
 
 
 •	There is minimal quantitative data that shows the district was materially impacted
+
 •	There is minimal quantitative data that shows the school summary was materially impacted
+
 •	Replacing the ninth-grade scores affect the scores by a minimal quantitative matrix. 
